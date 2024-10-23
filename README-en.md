@@ -1,5 +1,5 @@
 # this Page unavailable
 
-more information: ![info](/info-en.md)
+more information: [info](/info-en.md)
 
-> türkçe: ![türkçe](/README.md)
+> türkçe: [türkçe](/README.md)
